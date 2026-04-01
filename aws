@@ -8,3 +8,4 @@ int main() {
 }
 
 this code will print the message "hello world"
+this code prints the messages what ever you put in the printf statemet
